@@ -15,7 +15,7 @@ app.use('/auth', authRoutes);
 app.use('/api', gadgetRoutes);
 app.get("/", (req, res) => {
 
-    res.send("Hello");
+    res.send("Hello World");
   });
 
 app.listen(PORT, () => {
