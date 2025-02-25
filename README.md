@@ -4,6 +4,13 @@ The IMF Gadget API allows the management of gadgets used by the Impossible Missi
 
 ---
 
+## Tech Stack:
+
+1. Backend: Node.js & Express
+2. Database: PostgreSQL
+3. ORM: Prisma (The absolute GOAT for handling DB queries)
+4. Authentication and Authorization: JWT
+5. 
 ## Endpoints
 
 ### **User Endpoints**
@@ -62,12 +69,7 @@ The IMF Gadget API allows the management of gadgets used by the Impossible Missi
    ```bash
    node server.js
    ```
-## Tech Stack:
 
-1. Backend: Node.js & Express
-2. Database: PostgreSQL
-3. ORM: Prisma (The absolute GOAT for handling DB queries)
-4. Authentication and Authorization: JWT
 
 
 ##  URL
